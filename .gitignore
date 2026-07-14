@@ -1,0 +1,15 @@
+# Compilados / build
+target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# IDE
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.settings/
+.project
+.classpath
+
+# Logs / temporales
+*.log
